@@ -1,2 +1,2 @@
 # ocr-application
-Capstone project
+Capstone project with OCR usint Tesseract
